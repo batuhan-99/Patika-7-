@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Patikafy Müzik Platformu/1.0.0": {
+        "runtime": {
+          "Patikafy Müzik Platformu.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Patikafy Müzik Platformu/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
